@@ -1,6 +1,6 @@
 ## Hi 👋
 
-I'm currently learning
+I'm Abukar, a .NET student at TUC Yrkeshogskola in Linkoping. I'm currently learning C# and enjoy building games, app , web  and exploring software development. I'm especially interested in game development, web development, and creating new projects.
 
 <!--
 **Abbe06/Abbe06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
